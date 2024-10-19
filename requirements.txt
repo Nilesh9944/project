@@ -27,7 +27,7 @@ click==8.0.4
 cloudpathlib==0.9.0
 colorama==0.4.6
 comm==0.1.2
-confection==0.0.5
+confection==0.1.5
 constantly==15.1.0
 contourpy==1.0.6
 cryptography==36.0.0
